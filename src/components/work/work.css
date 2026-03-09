@@ -1,0 +1,68 @@
+.work {
+    padding: 10px;
+}
+
+.work .content {
+    margin-top: 20px;
+}
+
+.work .content .box {
+    background-color: #FFFFFF;
+    padding: 60px 40px 40px;
+    border-radius: 15px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    margin-top: 10px;
+    transition: 1s;
+}
+
+.work .content .box:hover {
+    transform: rotate(2deg);
+}
+
+.work .content .box .flex {
+    display: flex;
+    align-items: center;
+}
+
+.work .content .box .flex .icon {
+    margin-right: 10px;
+}
+
+.work .content .box .flex .icon i {
+    font-size: 20px;
+}
+
+.work .content .box.first .icon,
+.work .content .box.second .icon,
+.work .content .box.third .icon,
+.work .content .box.four .icon,
+.work .content .box.five .icon,
+.work .content .box.six .icon {
+    padding: 10px;
+    color: white;
+    border-radius: 50%;
+}
+
+.work .content .box.first .icon {
+    background-color: blue;
+}
+
+.work .content .box.second .icon {
+    background-color: red;
+}
+
+.work .content .box.third .icon {
+    background-color: gold;
+}
+
+.work .content .box.four .icon {
+    background-color: green;
+}
+
+.work .content .box.five .icon {
+    background-color: black;
+}
+
+.work .content .box.six .icon {
+    background-color: gray;
+}

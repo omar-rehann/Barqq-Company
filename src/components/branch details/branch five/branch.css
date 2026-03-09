@@ -1,0 +1,33 @@
+.branchone {
+    background-color: #f8f9fa;
+    margin: 10px;
+    border-radius: 8px;
+    padding: 10px;
+    padding-top: 90x;
+    margin-top: 90px;
+}
+
+.branchone .image {
+    background-color: #FFFFFF;
+    text-align: center;
+    border-radius: 15px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    margin: 20px 0;
+    padding: 20px;
+}
+
+.branchone .image img {
+    width: 100%;
+    height: 460px;
+    object-fit: cover;
+    border-radius: 8px;
+}
+
+.contian .card {
+    background-color: #FFFFFF;
+    padding: 20px 10px 10px;
+    border-radius: 15px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    margin-top: 10px;
+    transition: 1s;
+}

@@ -1,0 +1,9 @@
+.make {
+    background-color: #C5EAD3;
+    padding: 20px;
+    margin: 20px auto;
+    width: 50%;
+    border-radius: 10px;
+    text-align: center;
+    line-height: 3;
+}

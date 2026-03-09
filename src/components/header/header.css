@@ -1,0 +1,33 @@
+.nav {
+    position: fixed;
+    background-color: white;
+    box-shadow: 0 0 10px #ddd;
+    width: 100%;
+    left: 0;
+    top: 0;
+    z-index: 1000;
+}
+
+.img img {
+    width: 90px;
+}
+
+@media (min-width:992px) {
+    .nav {
+        position: fixed;
+        background-color: white;
+        box-shadow: 0 0 10px #ddd;
+        width: 100%;
+        left: 0;
+        top: 0;
+        height: 90px;
+        z-index: 1000;
+    }
+}
+
+
+/* 
+.link {
+    text-decoration: none;
+    color: black;
+} */

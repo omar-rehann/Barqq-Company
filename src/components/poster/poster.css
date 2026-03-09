@@ -1,0 +1,55 @@
+.poster {
+    padding: 90px;
+    padding-top: 90px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    background-color: #C5EAD3;
+}
+
+.poster .image {
+    text-align: center;
+}
+
+.poster .image {
+    padding: 10px;
+    margin: 10px;
+}
+
+.poster .image img {
+    width: 500px;
+    animation: zoom 3s ease-in-out infinite alternate;
+}
+
+@media (max-width:776px) {
+    .text {
+        margin-top: 10px;
+    }
+    .poster .image {
+        margin-top: 20px;
+    }
+    .poster .image img {
+        width: 100%;
+    }
+}
+
+
+/* start anmation */
+
+@keyframes zoom {
+    0% {
+        transform: scale(0.9);
+    }
+    100% {
+        transform: scale(1);
+    }
+}
+
+.text {
+    margin-top: 20px;
+}
+
+@media (max-width:767px) {
+    .text {
+        margin-top: 50px;
+    }
+}
