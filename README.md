@@ -4,11 +4,6 @@ A professional cleaning service booking platform for **Barqq Company** built wit
 
 ---
 
-## 🌐 Live Demo
-
-[Barqq Company Booking Live](https://clean-park.vercel.app/booking)
-
----
 
 ## 🛠️ Features
 
