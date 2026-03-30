@@ -31,7 +31,6 @@ function App() {
       <Route path="/branchthree" element={<Branchthree />} />
       <Route path="/branchfour" element={<Branchfour />} />
       <Route path="/branchfive" element={<Branchfive />} />
-          {/* <Route path="*" element={<Error />} /> */}
 
     </Routes>
           <Footer/>
