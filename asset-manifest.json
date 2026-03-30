@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Barqq-Company/static/css/main.683cf8de.css",
-    "main.js": "/Barqq-Company/static/js/main.76517083.js",
+    "main.js": "/Barqq-Company/static/js/main.3157ac79.js",
     "static/media/features.webp": "/Barqq-Company/static/media/features.4392953a3fd790ab188c.webp",
     "static/media/reqone.webp": "/Barqq-Company/static/media/reqone.534641ad29356c1bcc9a.webp",
     "static/media/threeservice.avif": "/Barqq-Company/static/media/threeservice.ad80cd15c47ec34cda16.avif",
@@ -17,10 +17,10 @@
     "static/media/icon.webp": "/Barqq-Company/static/media/icon.0b0f08a1caa0b083998f.webp",
     "index.html": "/Barqq-Company/index.html",
     "main.683cf8de.css.map": "/Barqq-Company/static/css/main.683cf8de.css.map",
-    "main.76517083.js.map": "/Barqq-Company/static/js/main.76517083.js.map"
+    "main.3157ac79.js.map": "/Barqq-Company/static/js/main.3157ac79.js.map"
   },
   "entrypoints": [
     "static/css/main.683cf8de.css",
-    "static/js/main.76517083.js"
+    "static/js/main.3157ac79.js"
   ]
 }
