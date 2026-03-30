@@ -21,7 +21,6 @@ function App() {
     <BrowserRouter>
           <Header/>
       <Routes>
-      <Route path="*" element={<Error />} />
       <Route path="/" element={<Homepage />} />
       <Route path="/home" element={<Homepage />} />
       <Route path="/request" element={<Requestpage />} />
@@ -32,6 +31,8 @@ function App() {
       <Route path="/branchthree" element={<Branchthree />} />
       <Route path="/branchfour" element={<Branchfour />} />
       <Route path="/branchfive" element={<Branchfive />} />
+          <Route path="*" element={<Error />} />
+
     </Routes>
           <Footer/>
 
